@@ -10,4 +10,4 @@
 7. ui
 8. saus
 
-foto wrap(wraps.jpg)
+![foto wrap](wraps.jpg)
